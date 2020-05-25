@@ -2,7 +2,7 @@
   "title": "Linux commands",
   "description": "Learning linux commands",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "3 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - list files",
@@ -23,9 +23,9 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal."
   },
   "backend": {
-    "imageid": "CentOS"
+    "imageid": "Centos"
   }
 }
