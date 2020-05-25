@@ -26,6 +26,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal."
   },
   "backend": {
-    "imageid": "Centos"
+    "imageid": "bash"
   }
 }
